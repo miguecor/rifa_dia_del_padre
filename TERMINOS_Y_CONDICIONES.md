@@ -21,15 +21,18 @@ d) La asignación definitiva de los boletos se realizará únicamente una vez qu
 
 ### **4. MECÁNICA DE LA RIFA**  
 a) **Sorteo Inicial:**  
-   - Si para el domingo 15 de junio de 2025 se han vendido al menos 40 boletos, el ganador se determinará tomando el número resultante del sorteo de la Lotería Nacional Mexicana correspondiente a ese día.  
+   - Si para el domingo 15 de junio de 2025 se han vendido al menos 40 boletos, el ganador se determinará tomando el número resultante del sorteo de la Lotería Nacional Mexicana correspondiente a ese día.
+ 
 b) **Condiciones en Caso de No Alcanzar el Mínimo:**  
    - Si para el domingo 15 de junio de 2025 no se han vendido 40 boletos, los participantes tendrán la opción de:
      1. Solicitar el reembolso total del costo del boleto.
      2. Aceptar la extensión del periodo de venta durante dos semanas, de modo que se intente alcanzar el mínimo de boletos.
    - En caso de que se opte por extender el periodo, si para el domingo 29 de junio de 2025 se alcanza el mínimo de 40 boletos, el ganador se determinará conforme al número resultante del sorteo de la Lotería Nacional Mexicana de ese día.
    - Si aún no se alcanza el mínimo para el domingo 29 de junio de 2025, se procederá a una nueva extensión y se realizará un tercer sorteo basado en la Lotería Nacional Mexicana del domingo 13 de julio de 2025.
+
 c) **Reembolso:**  
    - Si al finalizar el plazo establecido (hasta el domingo 13 de julio de 2025) no se ha alcanzado el mínimo de 40 boletos, se efectuará el reembolso total del costo de cada boleto a todos los participantes, sin excepción.
+   - Los participantes tendrán un plazo de 72 horas después de cada fecha de sorteo en la que no se haya realizado la rifa por no alcanzar el mínimo de boletos, para solicitar el reembolso del costo de su boleto. Si en ese plazo no se ha solicitado el reembolso, se asumirá que el participante desea continuar hasta la celebración del siguiente sorteo o hasta la última fecha programada.
 
 ### **5. ENTREGA DEL PREMIO**  
 a) El ganador, determinado conforme al sorteo correspondiente, recibirá la pantalla Samsung OLED modelo “QN83S90DAEXZA” en el plazo y condiciones que establezcan LOS ORGANIZADORES.  
@@ -39,9 +42,11 @@ b) La entrega del premio quedará condicionada a que se hayan cumplido los requi
 a) **De LOS ORGANIZADORES:**  
    - Garantizar la transparencia y veracidad de los resultados del sorteo, utilizando como referencia el resultado oficial de la Lotería Nacional Mexicana para la determinación del número ganador.
    - Informar oportunamente a LOS PARTICIPANTES sobre el estado de la rifa, fechas de sorteos y opciones de reembolso o extensión.
+
 b) **De LOS PARTICIPANTES:**  
    - Confirmar la veracidad de sus datos personales y realizar la compra de boletos conforme a los mecanismos establecidos.
    - Aceptar las condiciones de participación y las consecuencias derivadas de la no venta del mínimo requerido de boletos.
+
 c) LOS ORGANIZADORES no serán responsables por eventos ajenos o imprevistos que impidan la realización del sorteo, siempre que se actúe conforme a lo establecido en este documento.
 
 ### **7. PROTECCIÓN DE DATOS**  
