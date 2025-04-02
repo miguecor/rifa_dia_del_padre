@@ -17,6 +17,7 @@ d) **Sorteos:** Se definirán en tres posibles fechas, según se cumpla el míni
 a) La compra de boletos es individual y/o colectiva, siendo el precio de cada boleto de $1,000 MXN. Se pondrá a la venta un total de 100 boletos.  
 b) La participación implica la aceptación total e incondicional de estos Términos y Condiciones, sin excepción ni reserva de ningún tipo.  
 c) Los boletos serán numerados y, para efectos de selección del ganador, se asignará un número que se vinculará de manera directa con el resultado oficial del sorteo de la Lotería Nacional Mexicana correspondiente a la fecha indicada.
+d) La asignación definitiva de los boletos se realizará únicamente una vez que se haya validado el pago correspondiente. LOS ORGANIZADORES se reservan el derecho de cancelar cualquier asignación de boleto en caso de que el pago no haya sido recibido o validado correctamente.
 
 ### **4. MECÁNICA DE LA RIFA**  
 a) **Sorteo Inicial:**  
