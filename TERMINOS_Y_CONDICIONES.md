@@ -61,6 +61,11 @@ El presente documento se rige por las leyes vigentes en la República Mexicana. 
 ### **10. ACEPTACIÓN**  
 La participación en la rifa implica la lectura, comprensión y aceptación íntegra de estos Términos y Condiciones por parte de LOS PARTICIPANTES.
 
+### **11. CANALES DE COMUNICACIÓN**  
+Para cualquier duda, aclaración o solicitud relacionada con la rifa, LOS PARTICIPANTES podrán comunicarse con LOS ORGANIZADORES a través de los siguientes medios:  
+- **Correo electrónico:** sorteodiadelpadre@littlemunchers.com.mx  
+- **Whatsapp:** [littlemunchers@whatsapp](https://wa.me/524424952093)    
+
 ---
 
 *Fecha de publicación: Miércoles 2 de Abril de 2025*  
