@@ -36,7 +36,8 @@ c) **Reembolso:**
 
 ### **5. ENTREGA DEL PREMIO**  
 a) El ganador, determinado conforme al sorteo correspondiente, recibirá la pantalla Samsung OLED modelo “QN83S90DAEXZA” en el plazo y condiciones que establezcan LOS ORGANIZADORES.  
-b) La entrega del premio quedará condicionada a que se hayan cumplido los requisitos de venta mínima establecidos en estos términos.
+b) La entrega del premio quedará condicionada a que se hayan cumplido los requisitos de venta mínima establecidos en estos términos.  
+c) La pantalla se entregará nueva y sellada en su empaque original. Cualquier situación relacionada con la garantía del producto deberá ser gestionada directamente con el fabricante, Samsung México.
 
 ### **6. RESPONSABILIDADES**  
 a) **De LOS ORGANIZADORES:**  
