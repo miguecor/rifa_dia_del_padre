@@ -2,7 +2,7 @@
 ## **TÉRMINOS Y CONDICIONES**
 
 ### **1. OBJETO**  
-El presente documento tiene por objeto regular la participación en la rifa de una pantalla [Samsung OLED modelo 'QN83S90DAEXZA' de 83"](https://www.samsung.com/mx/tvs/oled-tv/s90d-83-inch-oled-4k-tizen-os-smart-tv-qn83s90daexzx/), organizada por Miguel Angel Corona Tarango y Ruth Violetta Bautista Chaire (en adelante, “LOS ORGANIZADORES”). La rifa se realizará con motivo del Día del Padre y se regirá por las siguientes cláusulas.
+El presente documento tiene por objeto regular la participación en la rifa de una pantalla [Samsung OLED modelo 'QN83S90DAEXZA' de 83"](https://www.samsung.com/mx/tvs/oled-tv/s90d-83-inch-oled-4k-tizen-os-smart-tv-qn83s90daexzx/), organizada por Miguel Angel Corona Tarango y Violeta Bautista Chaire (en adelante, “LOS ORGANIZADORES”). La rifa se realizará con motivo del Día del Padre y se regirá por las siguientes cláusulas.
 
 ###  **2. DEFINICIONES**  
 a) **Boletos:** Cada entrada adquirida por un participante, con un valor de $1,000 MXN cada una.  
@@ -63,8 +63,9 @@ La participación en la rifa implica la lectura, comprensión y aceptación ínt
 
 ### **11. CANALES DE COMUNICACIÓN**  
 Para cualquier duda, aclaración o solicitud relacionada con la rifa, LOS PARTICIPANTES podrán comunicarse con LOS ORGANIZADORES a través de los siguientes medios:  
-- **Correo electrónico:** sorteodiadelpadre@littlemunchers.com.mx  
-- **Whatsapp:** [littlemunchers@whatsapp](https://wa.me/524424952093)    
+- **Correo electrónico:** sorteodiadelpadre@littlemunchers.com.mx
+- **Teléfono:** +52 (446) 122 8200
+- **Whatsapp:** [littlemunchers@whatsapp](https://wa.me/524461228200)  
 
 ---
 
